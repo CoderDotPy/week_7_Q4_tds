@@ -53,3 +53,24 @@ This project delivers a **correlation analysis and visualization in Excel** foll
 
 ## Repository Structure  
 
+📂 Supply-Chain-Correlation
+│── README.md
+│── correlation.csv
+│── heatmap.png
+
+
+---
+
+## Validation Checklist  
+✅ `README.md` contains project description and **email**  
+✅ `correlation.csv` includes correct correlation matrix values  
+✅ `heatmap.png` shows Excel conditional formatting with **Red-White-Green** scale  
+✅ Heatmap image dimensions are within **400x400 – 512x512 px**  
+
+---
+
+## Contact  
+📧 Email: **22f3000814@ds.study.iitm.ac.in**  
+
+---
+
